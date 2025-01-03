@@ -170,12 +170,11 @@ header li a {
 
 .line {
     z-index: 100;
-    margin-top: 8rem;
+    margin-top: 9rem;
     border-width: 2px;
 }
 
 #contact {
-    background-color: red;
     height: 90vh;
     width: 100%;
 }
@@ -183,4 +182,25 @@ header li a {
     margin: 0;
     font-size: 208px;
     height: 30vh;
+}
+
+form {
+    margin-left: 20px;
+    margin-top: 60px;
+    width: 41.31%;
+}
+
+input {
+    padding: 5px;
+    margin: 10px;
+}
+
+textarea {
+    margin: 10px;
+    width: 96%;
+}
+
+button {
+    margin-right: 10px;
+    float: right;
 }
